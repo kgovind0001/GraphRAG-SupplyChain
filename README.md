@@ -19,10 +19,10 @@ This is a Python-based application that combines the strengths of knowledge grap
 
 ## 🧰 Prerequisites
 
- Python 3.90
- Docker & Docker Compoe
- [pyenv](https://github.com/pyenv/pyenv) & [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
- OpenAI API Ky
+ 1. Python 3.9
+ 2. Docker & Docker Compose 
+ 3. [pyenv](https://github.com/pyenv/pyenv) & [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
+ 4. OpenAI API Ky
 
 ---
 
