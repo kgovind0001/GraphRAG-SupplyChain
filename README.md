@@ -106,23 +106,23 @@ GraphRAG-SupplyChain/
 
 ---
 
-## 🧪 Testing the Setp
+## 🧪 Testing the Setup
 
 After running the application, you can test its functionality by:
-1. Adding sample data to the `sample_data/` directry.
-2. Ensuring the data is ingested and processed correcly.
-3. Submitting queries and verifying the responses are accurate and contextually relevnt.
+1. Adding sample data to the `sample_data/` directory.
+2. Ensuring the data is ingested and processed correctly.
+3. Submitting queries and verifying the responses are accurate and contextually relevent.
 
 ---
 
-## 🤝 Contributng
+## 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull reqest.
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 ---
 
-## 📄 Licnse
+## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/kgovind0001/GraphRAG-SupplyChain/blob/main/LICENSE) file for deails.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/kgovind0001/GraphRAG-SupplyChain/blob/main/LICENSE) file for details.
 
 ---
 
