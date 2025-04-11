@@ -1,15 +1,11 @@
 import streamlit as st
 from dotenv import load_dotenv
-import os
-from supply_chain_assistant import SupplyChainAssistant
+from src.supply_chain_assistant import SupplyChainAssistant
 
-# Load environment variables
 load_dotenv()
 
-# Set Streamlit page config
 st.set_page_config(page_title="Supply Chain Assistant", layout="wide")
 
-# Custom CSS styling
 st.markdown("""
     <style>
     /* Chat message container */
@@ -63,21 +59,20 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Initialize assistant and messages
 if "assistant" not in st.session_state:
-    st.session_state.assistant = SupplyChainAssistant()
+    st.session_state.assistant = SupplyChainAssistant(nodes_csv="sample_data/nodes.csv", 
+                                                      relationships_csv="sample_data/relationships.csv")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Render past messages
 for msg in st.session_state.messages:
     role = msg["role"]
     content = msg["content"]
     css_class = f"chat-message {role}"
     st.markdown(f"<div class='{css_class}'>{content}</div>", unsafe_allow_html=True)
 
-# Prompt input
+
 if prompt := st.chat_input("Ask your supply chain question..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.markdown(f"<div class='chat-message user'>{prompt}</div>", unsafe_allow_html=True)
