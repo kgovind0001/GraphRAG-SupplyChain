@@ -129,7 +129,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ## 🙌 Acknowledgents
 
 Developed by [Kishan Govind](https://github.com/kgovind0001).
-Huge Credit to [medium post](https://medium.com/globant/langgraph-ai-agents-with-neo4j-knowledge-graph-7e688888f547) for the motivation and the code. 
+Huge Thanks to [medium post](https://medium.com/globant/langgraph-ai-agents-with-neo4j-knowledge-graph-7e688888f547) for the motivation. 
 
 ---
 
