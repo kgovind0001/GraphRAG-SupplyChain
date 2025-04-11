@@ -1,0 +1,41 @@
+id:ID,name,type,location,description,supply_capacity
+S1,Global Minerals Inc.,Supplier,Johannesburg,"Global Minerals Inc. is a leading supplier of high-grade raw minerals based in Johannesburg, South Africa.",23845
+S2,PanAsia Metals,Supplier,Kuala Lumpur,"PanAsia Metals specializes in rare earth metals, catering to industries across Southeast Asia.",17654
+S3,GreenField Silica,Supplier,Brisbane,"GreenField Silica provides high-purity silica for electronics and solar industries.",48976
+S4,Nordic Steel Corp.,Supplier,Oslo,"Nordic Steel Corp. is a major exporter of steel products across Europe.",28934
+S5,MediCopper Ltd.,Supplier,Santiago,"MediCopper Ltd. mines and refines high-quality copper for global distribution.",15000
+S6,SiliconMount Raw Materials,Supplier,Shenzhen,"SiliconMount Raw Materials supplies silicon and other semiconductor components from Shenzhen.",37000
+S7,AquaChem Resources,Supplier,Mumbai,"AquaChem Resources offers chemical raw materials and solutions for water treatment.",22000
+S8,AgriCo Farms,Supplier,Iowa City,"AgriCo Farms is a supplier of sustainable agricultural produce and raw materials.",32000
+S9,PetroBase Refineries,Supplier,Houston,"PetroBase Refineries processes petrochemical products for use in various industries.",41000
+S10,EuroPlastics,Supplier,Warsaw,"EuroPlastics manufactures and supplies plastic polymers for industrial applications.",27500
+M1,TechSphere Electronics,Manufacturer,Seoul,"TechSphere Electronics produces advanced electronic components and devices.",33000
+M2,UltraVision Screens,Manufacturer,Tokyo,"UltraVision Screens manufactures high-definition LCD and OLED screens for global brands.",24000
+M3,SmartFab Devices,Manufacturer,Berlin,"SmartFab Devices develops cutting-edge smart devices for personal and industrial use.",49000
+M4,Photonix Lighting,Manufacturer,San Jose,"Photonix Lighting specializes in LED lighting solutions for commercial and residential use.",12500
+M5,SteelWorks Machinery,Manufacturer,Detroit,"SteelWorks Machinery produces heavy machinery and tools for steel processing.",45000
+M6,MetalForm Automotive,Manufacturer,Stuttgart,"MetalForm Automotive fabricates precision automotive components for global automakers.",38000
+M7,BioNex Pharma,Manufacturer,Basel,"BioNex Pharma is a pharmaceutical manufacturer focused on innovative drug formulations.",26000
+M8,RapidTools,Manufacturer,Chicago,"RapidTools produces durable tools and equipment for construction and industrial purposes.",50000
+M9,GreenMek Robotics,Manufacturer,Shanghai,"GreenMek Robotics develops robotics and automation solutions for manufacturing.",41000
+M10,AeroLite Aviation,Manufacturer,Toulouse,"AeroLite Aviation manufactures lightweight components for the aerospace industry.",30000
+D1,GlobalTrade LLC,Distributor,Dubai,"GlobalTrade LLC manages global logistics and distribution for various industries.",34000
+D2,TransWorld Supply,Distributor,Hong Kong,"TransWorld Supply offers end-to-end supply chain solutions across Asia.",28000
+D3,ExpressLine Distributors,Distributor,Los Angeles,"ExpressLine Distributors specializes in fast and reliable logistics services.",37000
+D4,EuroTrans Logistics,Distributor,Rotterdam,"EuroTrans Logistics provides efficient shipping solutions across Europe.",29000
+D5,PanAmerican Trade,Distributor,Panama City,"PanAmerican Trade connects manufacturers and retailers across the Americas.",32000
+R1,TechMart,Retailer,New York,"TechMart is a leading electronics retailer offering a wide range of consumer tech products.",36000
+R2,BrightScreens,Retailer,London,"BrightScreens specializes in high-quality display screens and related products.",25000
+R3,HomeGadgets,Retailer,Paris,"HomeGadgets provides innovative smart home devices and appliances.",30000
+R4,AutoDirect,Retailer,Rome,"AutoDirect sells premium automotive parts and accessories.",41000
+R5,MediCare Pharmacy,Retailer,Toronto,"MediCare Pharmacy offers a range of pharmaceutical products and health solutions.",27000
+P1,High-Grade Steel,Product,NA,"High-Grade Steel is used in construction, automotive, and heavy machinery industries.",44000
+P2,Silicon Wafers,Product,NA,"Silicon Wafers are essential components for semiconductor manufacturing.",50000
+P3,LCD Panels,Product,NA,"LCD Panels are widely used in display devices such as TVs and monitors.",48000
+P4,Lithium Batteries,Product,NA,"Lithium Batteries power various electronic devices and electric vehicles.",46000
+P5,Pharmaceutical Grade Chemicals,Product,NA,"Pharmaceutical Grade Chemicals are crucial for drug manufacturing.",37000
+P6,Agricultural Produce,Product,NA,"Agricultural Produce includes grains, vegetables, and fruits sourced sustainably.",33000
+P7,Petrochemical Products,Product,NA,"Petrochemical Products serve as raw materials for plastics and synthetic fibers.",35000
+P8,Plastic Polymers,Product,NA,"Plastic Polymers are used in packaging, construction, and manufacturing.",32000
+P9,Smartphones,Product,NA,"Smartphones are advanced mobile devices with communication and computing capabilities.",41000
+P10,LED Light Components,Product,NA,"LED Light Components are used in energy-efficient lighting solutions.",39000
